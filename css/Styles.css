@@ -1,0 +1,34 @@
+body {
+    padding-right: 20%;
+    padding-left: 20%;
+}
+
+.header-content {
+    display: flex;
+}
+
+#img-news {
+    height: 300px;
+    width: 350px;
+    padding: 10px 10px 10px 10px;
+    box-shadow: 5px 15px #f2eded;
+    align-self: center;
+}
+
+.main-container {
+    display: flex;
+}
+
+.main-container img {
+    padding: 20px;
+    width: 80%;
+    height: 30%;
+}
+
+article {
+    border-right: 1px solid gray;
+}
+
+#top {
+    padding: 1%;
+}
